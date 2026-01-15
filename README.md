@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Image/logo.png" alt="Logo Crabi" width="200">
+  <img src="Image/logo.png" alt="Logo Crabi" width="150">
 </p>
 
 
