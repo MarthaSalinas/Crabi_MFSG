@@ -17,6 +17,15 @@ Este notebook realiza un análisis completo de los siniestros de Crabi, enfocán
 - Python: pandas, numpy, matplot
 - Jupyter Notebook
 - Power BI
+  
+## 🔹 Fuentes de datos
+claim.xlsx 
+service.xlsx 
+people.xlsx 
+Diccionario de Datos.xlsx 
+status.xlsx
+status_type.xlsx
+status_cause.xlsx
 
 ## 🔹 Flujo de trabajo
 1. Cargar los archivos originales (`claim.xlsx`, `service.xlsx`, `people.xlsx`) sin modificarlos
