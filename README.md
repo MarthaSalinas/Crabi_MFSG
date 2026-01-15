@@ -14,17 +14,16 @@ Este notebook realiza un análisis completo de los siniestros de Crabi, enfocán
 - Exportación a CSV para Power BI
 
 ## 🔹 Herramientas utilizadas
-- Python: `pandas`, `numpy`
+- Python: pandas, numpy, matplot
 - Jupyter Notebook
 - Power BI
 
 ## 🔹 Flujo de trabajo
 1. Cargar los archivos originales (`claim.xlsx`, `service.xlsx`, `people.xlsx`) sin modificarlos
 2. Limpiar, validar y transformar los datos en memoria
-3. Calcular métricas de siniestralidad y severidad
+3. Calcular métricas de siniestralidad, severidad, analisís Etario
 4. Exportar los resultados a CSV
 5. Importar CSVs en Power BI para dashboards interactivos
-6. Recalcular métricas automáticamente si se agregan/eliminan filas en los archivos fuente
 
 ## 🔹 Insights principales
 - Segmentos de baja frecuencia pueden generar alto riesgo financiero
