@@ -1,3 +1,5 @@
+![Logo Crabi](Image/logo.png)
+
 # Crabi_MFSG
 Este notebook realiza un análisis completo de los siniestros de Crabi, enfocándose en **frecuencia**, **severidad** y **segmentación de riesgo**.  
 
